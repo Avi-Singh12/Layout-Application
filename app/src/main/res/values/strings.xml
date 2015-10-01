@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="hi_world">Hi world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

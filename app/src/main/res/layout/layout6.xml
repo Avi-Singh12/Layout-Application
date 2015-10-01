@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/num1"
+        android:layout_width="35dp"
+        android:layout_height="fill_parent"
+        android:background="@color/blue" />
+    <View
+        android:id="@+id/num2"
+        android:layout_width="35dp"
+        android:layout_height="fill_parent"
+        android:background="@color/red" />
+    <View
+        android:id="@+id/num3"
+        android:layout_width="35dp"
+        android:layout_height="fill_parent"
+        android:background="@color/aqua" />
+    <View
+        android:id="@+id/num4"
+        android:layout_width="35dp"
+        android:layout_height="fill_parent"
+        android:background="@color/yellow" />
+</LinearLayout>
