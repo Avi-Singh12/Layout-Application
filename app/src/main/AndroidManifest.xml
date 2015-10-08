@@ -16,6 +16,38 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ActivityOne"
+            android:label="Layout Application">
+        </activity>
+        <activity
+            android:name=".ActivityTwo"
+            android:label="Layout Application">
+        </activity>
+        <activity
+            android:name=".ActivityThree"
+            android:label="Layout Application">
+        </activity>
+        <activity
+            android:name=".ActivityFour"
+            android:label="Layout Application">
+        </activity>
+        <activity
+            android:name=".ActivityFive"
+            android:label="Layout Application">
+        </activity>
+        <activity
+            android:name=".ActivitySix"
+            android:label="Layout Application">
+        </activity>
+        <activity
+            android:name=".ActivitySeven"
+            android:label="Layout Application">
+        </activity>
+        <activity
+            android:name=".ActivityEight"
+            android:label="Layout Application">
+        </activity>
     </application>
 
 </manifest>
